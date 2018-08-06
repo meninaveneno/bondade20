@@ -1,0 +1,26 @@
+----- [BACKGROUNDS CORES] -----
+
+/* BLACK TRANSPARENT 75 OPACITY */
+ #room .app-right {
+    background: rgba(0,0,0,.75);
+}
+
+/* BLACK TRANSPARENT 50 OPACITY */
+#room-settings-menu {
+  	background: rgba(0,0,0,.5);
+}
+
+/* BLACK TRANSPARENT 30 OPACITY */
+#chat .cm:nth-child(2n+1) {
+    background-color: rgba(0,0,0,.3);
+}
+
+----- [BACKGROUNDS TRANSPARENTES] -----
+
+#app-menu,
+#app-menu.open .list,
+#waitlist .list .user,
+#user-view .jspContainer,
+.user-content.profile .points .subscribe-button {
+	background: transparent;
+}
