@@ -1,0 +1,39 @@
+/* Anfitrião/CoAnfitrião */
+#user-lists .group.host {
+    color: #f94513;
+    top: 1px;}
+.icon-chat-host + span,
+#user-lists .group.host ~ .user span,
+#dialog-user-role .role-menu .menu ul .host span {
+    color: #f94513 !important;}
+.icon-chat-cohost + span,
+#user-lists .group.cohost ~ .user span,
+#dialog-user-role .role-menu .menu ul .cohost span {
+    color: #f94513 !important;}
+#user-lists .group {
+    border: none !important;
+    box-shadow: 0 0 1px 1px;}
+/* ------------------------------------------------------------------ */
+/* Coordenador */
+#user-lists .group.manager {
+    color: #daa520;}
+.icon-chat-manager + span,
+#user-lists .group.manager ~ .user span,
+#dialog-user-role .role-menu .menu ul .manager span {
+    color: #daa520 !important;}
+/* ------------------------------------------------------------------ */
+/* Seguranca */
+#user-lists .group.bouncer {
+    color: #009ed3;}
+.icon-chat-bouncer + span,
+#user-lists .group.bouncer ~ .user span,
+#dialog-user-role .role-menu .menu ul .bouncer span {
+    color: #009ed3 !important;}
+/* ------------------------------------------------------------------ */
+/* Dj Residente */
+#user-lists .group.dj {
+    color: #7a16dd;}
+.icon-chat-dj + span,
+#user-lists .group.dj ~ .user span,
+#dialog-user-role .role-menu .menu ul .dj span {
+    color: #7a16dd !important;}
