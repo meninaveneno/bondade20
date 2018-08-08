@@ -21,7 +21,7 @@
 .community__bottom .bottom__playback-controls 
 .volume-bar .progress .progress-bar{background-color:#daa520}@-webkit-keyframes bounceIn{
   
-{ background-position-x: center !important; background-position-y: bottom !important;
+.left-side-wrapper { background-position-x: background-position-x: center !important; background-position-y: bottom !important;
 background-repeat: no-repeat !important; background-size: 1600px 900px !important;
 max-height: 900px !important; background-image: url(https://i.imgur.com/4ezjGSO.jpg) !important;
 } 
