@@ -15,12 +15,7 @@
 @import url('https://rawgit.com/JubileuW/-Bond-o-/master/extras/header-panel-invisivel.css');
 @import url('https://rawgit.com/JubileuW/-Bond-o-/master/extras/adicional3.css');
 
-.community__bottom .bottom__playback-meta 
-.community__song-playing-progress 
-.progress-bar{background-color:#daa520}
-.community__bottom .bottom__playback-controls 
-.volume-bar .progress .progress-bar{background-color:#daa520}@-webkit-keyframes bounceIn{
-  
+ 
 .left-side-wrapper{background-position-x: background-position-x: center !important; background-position-y: bottom !important;
 background-repeat: no-repeat !important; background-size: 1600px 900px !important;
 max-height: 900px !important; background-image: url(https://i.imgur.com/4ezjGSO.jpg) !important;
