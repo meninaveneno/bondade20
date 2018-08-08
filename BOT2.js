@@ -238,10 +238,10 @@
     var basicBot = {
         version: "1",
         status: false,
-        name: "Move It-Bot",
+        name: "BOT-Seduzente",
         loggedInID: null,
         scriptLink: "#",
-        cmdLink: "http://git.io/245Ppg",
+        cmdLink: "https://git.io/fNSiK",
         chatLink: "https://rawgit.com/meninaveneno/bondade20/master/PT-BR.json",
         chat: null,
         loadChat: loadChat,
