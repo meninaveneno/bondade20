@@ -20,10 +20,7 @@
 .progress-bar{background-color:#daa520}
 .community__bottom .bottom__playback-controls 
 .volume-bar .progress .progress-bar{background-color:#daa520}@-webkit-keyframes bounceIn{
-
-#app .community .community__right-bar #header-panel-bar,#app .community .community__top{background:linear-gradient(to bottom,#000000 0,rgba(0,0,0,0.4) 0,#000 200%)}#app .community .community__top .community__meta .community__name{color:#daa520}#app-menu.in-room{background:linear-gradient(to bottom,#000000 0,rgba(0,0,0,0.4) 0,#000 200%)no-repeat;background-size:200% 54px}#app .community .community__bottom,#app .community .community__bottom .bottom__playback-controls,#app .community .community__bottom .bottom__playback-meta{background:linear-gradient(to bottom,#000000 0,rgba(0,0,0,0.4) 0,#000 200%)}#app .community .community__bottom .community__playlist--desktop{background:linear-gradient(to bottom,rgba(0,0,0, 0.4) 0,#000 200%)}#app .community .community__bottom .community__playlist--desktop>i{color:#daa520}
-.left-side-wrapper { background-position-x: center !important; background-position-y: bottom !important; background-repeat: no-repeat !important;
-background-size: 1600px 900px !important; max-height: 900px !important; background-image: url(https://i.imgur.com/0wYjGZy.jpg) !important;}
+  
 /* Rolezeiros do Plug™ Customização
 
 Editado por Nana
