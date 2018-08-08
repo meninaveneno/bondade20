@@ -15,7 +15,11 @@
 @import url('https://rawgit.com/JubileuW/-Bond-o-/master/extras/header-panel-invisivel.css');
 @import url('https://rawgit.com/JubileuW/-Bond-o-/master/extras/adicional3.css');
 
-  
+.left-side-wrapper { background-position-x: center !important; background-position-y: bottom !important;
+background-repeat: no-repeat !important; background-size: 1600px 600px !important;
+max-height: 900px !important; background-image: url(https://i.imgur.com/4ezjGSO.jpg) !important;
+}   
+
 /* Rolezeiros do Plug™ Customização
 
 Editado por Nana
