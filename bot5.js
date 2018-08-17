@@ -241,7 +241,7 @@
         name: "BOT-Seduzente",
         loggedInID: null,
         scriptLink: "#",
-        cmdLink: "https://git.io/fNSiK",
+        cmdLink: null,
         chatLink: "https://rawgit.com/meninaveneno/bondade20/master/PT-BR.json",
         chat: null,
         loadChat: loadChat,
@@ -305,7 +305,7 @@
             filterChat: false,
             etaRestriction: false,
             welcome: true,
-            opLink: "https://rawgit.com/Shadow-Slayer/mib/master/op.json",
+            opLink: null,
             rulesLink: null,
             themeLink: ":arrow_forward: Eletrônica :arrow_forward: Pop :arrow_forward: Rock :arrow_forward: Hip Hop :arrow_forward: Reggae :arrow_forward: Sertanejo",
             fbLink: null,
@@ -317,7 +317,7 @@
             commandLiteral: "!",
             blacklists: {
                 NSFW: "https://rawgit.com/Shadow-Slayer/master/blacklists/NSFW.json",
-                OP: "https://rawgit.com/Shadow-Slayer/mib/master/op.json",
+                OP: null,
                 BANNED: "https://rawgit.com/basicBot/custom/master/blacklists/BANNEDlist.json"
             }
         },
