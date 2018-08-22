@@ -99,7 +99,7 @@
     var loadChat = function (cb) {
         if (!cb) cb = function () {
         };
-        $.get("https://rawgit.com/meninaveneno/bondade20/master/PT-BR.json", function (json) {
+        $.get("https://rawgit.com/Indefinid0/Bond-bot/master/lang/pt-BR.json", function (json) {
             var link = basicBot.chatLink;
             if (json !== null && typeof json !== "undefined") {
                 langIndex = json;
@@ -233,24 +233,24 @@
 
     var botCreator = "Yemasthui";
     var botMaintainer = "Benzi"
-    var botCreatorIDs = ["3851534", "4105209"];
+    var botCreatorIDs = [0000000, 000000];
 
     var basicBot = {
         version: "1",
         status: false,
-        name: "Move It-Bot",
+        name: "BOT-Rolezeiro",
         loggedInID: null,
         scriptLink: null,
-        cmdLink: "http://git.io/245Ppg",
-        chatLink: "https://rawgit.com/meninaveneno/bondade20/master/PT-BR.json",
+        cmdLink: null,
+        chatLink: "https://rawgit.com/Indefinid0/Bond-bot/master/lang/pt-BR.json",
         chat: null,
         loadChat: loadChat,
         retrieveSettings: retrieveSettings,
         retrieveFromStorage: retrieveFromStorage,
         settings: {
-            botName: "BOT-Seduzente",
+            botName: "BOT-Rolezeiro",
             language: "portuguese",
-            chatLink: "https://rawgit.com/meninaveneno/bondade20/master/PT-BR.json",
+            chatLink: "https://rawgit.com/Indefinid0/Bond-bot/master/lang/pt-BR.json",
             scriptLink: null,
             roomLock: false, // Requires an extension to re-load the script
             startupCap: 1, // 1-200
@@ -316,8 +316,8 @@
             songstats: false,
             commandLiteral: "!",
             blacklists: {
-                NSFW: "https://rawgit.com/Shadow-Slayer/master/blacklists/NSFW.json",
-                OP: "https://rawgit.com/Shadow-Slayer/mib/master/op.json",
+                NSFW: "https://rawgit.com/basicBot/custom/master/blacklists/NSFWlist.json",
+                OP: "https://rawgit.com/basicBot/custom/master/blacklists/OPlist.json",
                 BANNED: "https://rawgit.com/basicBot/custom/master/blacklists/BANNEDlist.json"
             }
         },
