@@ -241,7 +241,7 @@
         name: "BOT-Rolezeiro",
         loggedInID: null,
         scriptLink: null,
-        cmdLink: null,
+        cmdLink: "http://git.io/245Ppg",
         chatLink: "https://rawgit.com/meninaveneno/bondade20/master/PT-BR.json",
         chat: null,
         loadChat: loadChat,
