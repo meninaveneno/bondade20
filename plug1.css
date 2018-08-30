@@ -1,6 +1,6 @@
 @import url('https://rawgit.com/meninaveneno/bondade20/master/Chat-Color.css');
 @import url('https://rawgit.com/meninaveneno/bondade20/master/patentes.css');
-@import url('https://rawgit.com/meninaveneno/RolezeirosDoPlug/master/usuary.css');
+@import url('https://rawgit.com/meninaveneno/RolezeirosDoPlug/master/usuarios.css');
 @import url('https://rawgit.com/JubileuW/-Bond-o-/master/extras/chat-color.css');
 @import url('https://rawgit.com/meninaveneno/bondade20/master/background.css');
 @import url('https://rawgit.com/JubileuW/-Bond-o-/master/colors.css');
@@ -16,7 +16,7 @@
 @import url('https://rawgit.com/JubileuW/-Bond-o-/master/extras/adicional3.css');
 
 .left-side-wrapper { background-position-x: center !important; background-position-y: bottom !important;
-background-repeat: no-repeat !important; background-size: 1300px 600px !important;
+background-repeat: no-repeat !important; background-size: 1200px 600px !important;
 max-height: 900px !important; background-image: url(http://getwallpapers.com/wallpaper/full/f/4/d/1108799-beautiful-blackpink-wallpapers-1920x1080.jpg) !important;
 }   
 
